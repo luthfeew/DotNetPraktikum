@@ -1,0 +1,13 @@
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\bin\Debug\Praktikum10.exe.config
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\bin\Debug\Praktikum10.exe
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\bin\Debug\Praktikum10.pdb
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\obj\Debug\Praktikum10.csproj.AssemblyReference.cache
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\obj\Debug\Praktikum10.csproj.SuggestedBindingRedirects.cache
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\obj\Debug\Praktikum10.Form1.resources
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\obj\Debug\Praktikum10.Form2.resources
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\obj\Debug\Praktikum10.Form3.resources
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\obj\Debug\Praktikum10.Properties.Resources.resources
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\obj\Debug\Praktikum10.csproj.GenerateResource.cache
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\obj\Debug\Praktikum10.csproj.CoreCompileInputs.cache
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\obj\Debug\Praktikum10.exe
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum10\obj\Debug\Praktikum10.pdb

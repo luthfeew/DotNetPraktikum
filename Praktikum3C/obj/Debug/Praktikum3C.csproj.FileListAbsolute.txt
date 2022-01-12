@@ -1,0 +1,9 @@
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum3C\bin\Debug\Praktikum3C.exe.config
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum3C\bin\Debug\Praktikum3C.exe
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum3C\bin\Debug\Praktikum3C.pdb
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum3C\obj\Debug\Praktikum3C.Form1.resources
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum3C\obj\Debug\Praktikum3C.Properties.Resources.resources
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum3C\obj\Debug\Praktikum3C.csproj.GenerateResource.cache
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum3C\obj\Debug\Praktikum3C.csproj.CoreCompileInputs.cache
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum3C\obj\Debug\Praktikum3C.exe
+D:\Github-Kuliah\Pemrograman Framework (.Net)\Praktikum3C\obj\Debug\Praktikum3C.pdb
